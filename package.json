@@ -6,7 +6,7 @@
     "test": "tests"
   },
   "scripts": {
-    "api-tests-dev": "newman run json-testsuite-basic-01.json"
+    "api-tests-dev": "newman run tests/json-testsuite-basic-01.json"
   },
   "author": "Ian Craig",
   "dependencies": {
